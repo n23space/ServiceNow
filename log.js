@@ -1,3 +1,6 @@
+//var p = print(gs.info);
+//p.log('message');
+//p.end();
 function print(func){
     var logs = [];
     function log(msg){
